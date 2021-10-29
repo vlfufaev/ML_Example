@@ -1,3 +1,3 @@
-# ML_toy_example
+# ML_example
 
 This is simple ML project based on task from Skillbox webinar.
