@@ -1,3 +1,3 @@
 # ML_toy_example
 
-This is ML baseline taken from Skillbox webinar.
+This is simple ML project based on task from Skillbox webinar.
