@@ -1,3 +1,3 @@
 # ML_Example
 
-This is simple ML project based on task from Skillbox webinar.
+Weather Prediction: This is simple ML project based on task from Skillbox webinar. Linear and Regression Tree  models extended by Neural Net.
